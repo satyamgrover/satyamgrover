@@ -1,4 +1,4 @@
-Hi, I'm Satyam 👋
+Hi, I'm Satyam 👋  
 New to tech. Learning by doing. Mostly breaking things in Python.
 
 
@@ -11,9 +11,9 @@ What I'm up to:
 
 Reach Me 📬:
 
-E-mail     satyamgrover67@gmail.com
-LinkedIn   satyam-grover
-Twitter/X  @satyamgrover
+E-mail     satyamgrover67@gmail.com  
+LinkedIn   satyam-grover  
+Twitter/X  @satyamgrover  
 
 <!--
 **satyamgrover/satyamgrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
